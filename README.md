@@ -1,6 +1,7 @@
 # Demand-Forecasting-and-Inventory-Optimisation
 
-## AIM: Predicting the Future of Product Sales and Crafting the Optimal Inventory Strategy
+## AIM
+Predicting the Future of Product Sales and Crafting the Optimal Inventory Strategy
 
 ## Introduction
 Navigating the ever-shifting landscape of customer demand is a core challenge that supply chain professionals face. Supply chain professionals often combine their expert intuition with some basic statistical techniques to infer the demand for products based on historical data. This process is relatively straightforward when dealing with smaller product categories and stable demand patterns. However, As businesses grow and encounter larger product categories with constantly shifting consumer demands, this traditional demand forecasting approach may not scale.
